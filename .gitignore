@@ -1,0 +1,33 @@
+# Compilados C/C++
+*.exe
+*.o
+*.out
+*.obj
+*.dll
+*.a
+*.lib
+*.so
+*.dylib
+# Carpetas de compilación
+build/
+cmake-build-debug/
+cmake-build-release/
+# MATLAB / Simulink
+*.asv
+*.autosave
+*.slxc
+*_ert_rtw/
+*_grt_rtw/
+*.slx.r20*
+*.slx~
+*.sldd~
+slprj/
+# Archivos temporales de MATLAB
+*.mex*
+*.p
+# VS Code
+.vscode/
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
